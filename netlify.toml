@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/pmu-api/*"
+  to = "https://offline.turfinfo.api.pmu.fr/rest/client/7/:splat"
+  status = 200
+  force = true
